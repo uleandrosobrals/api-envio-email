@@ -52,10 +52,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <http://gitlab.cencosud.net/uleandro/api-email-generic.git>
+$ git clone <>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd  api-email-generic
+$ cd  
 
 # Vá para a pasta server
 $ cd src/index
@@ -88,7 +88,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- <a href="Caminho do nome caso queira ser encontrado">
  <img style="border-radius: 50%;" src="caminho da imagem caso vá pôr" width="100px;" alt=""/> -->
  
- <h3><a href="mailto:uildson.santos@cencosud.com.br?subject=API Generica Email">Leandro Sobral</a></h3>
+ <h3><a href="mailto:?subject=API Generica Email">Leandro Sobral</a></h3>
 
 
 

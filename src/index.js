@@ -25,16 +25,12 @@ const swaggerOptions = {
             version: '1.0.2',
             contact: {
                 name: pack.author,
-                email: "uildson.santos@cencosud.com.br"
+                email: "leosobral.dev@gmail.com"
             },
             "servers": [
                 {
                     "url": "http://localhost:3030",
                     "description": "Development server"
-                },
-                {
-                    "url": "http://g300603sv08t:4927/",
-                    "description": "Test server"
                 },
                 {
                     "url": "http://localhost:3030",
